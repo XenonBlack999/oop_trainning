@@ -34,3 +34,9 @@ print(shark3.genus)
 print(shark3.species)
 print("\n")
 
+shark.species = "Alopiidae"
+
+print(shark1.species)
+print(shark2.species)
+print(shark3.species)
+
